@@ -1,8 +1,7 @@
 # Requirements
 
--node.js
--`npm install`
-(dependencies: jest)
+- node.js
+- `npm install` (dependencies: jest)
 
 
 
