@@ -1,0 +1,17 @@
+{
+  "name": "taxes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

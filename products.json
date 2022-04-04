@@ -1,0 +1,38 @@
+[
+  {
+    "name": "book",
+    "type": "book",
+    "price": 12.49,
+    "imported": false
+  },
+  {
+    "name": "imported box of chocolates",
+    "type": "food",
+    "price": 10.00,
+    "imported": true
+  },
+  {
+    "name": "imported bottle of perfume",
+    "type": "cosmetic",
+    "price": 47.50,
+    "imported": true
+  },
+  {
+    "name": "packet of headache pills",
+    "type": "medical",
+    "price": 9.75,
+    "imported": false
+  },
+  {
+    "name": "music CD",
+    "type": "music",
+    "price": 14.99,
+    "imported": false
+  },
+  {
+    "name": "chocolate bar",
+    "type": "food",
+    "price": 0.85,
+    "imported": false
+  }
+]
